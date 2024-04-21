@@ -25,7 +25,7 @@ https://iblab.bio.nagoya-u.ac.jp/members/detail/s.iwanami
 
 以下から開けます。  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/tokuron142024/blob/main/SIR.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/tokuron142024/blob/main/virusdynamics.ipynb)
 
 
 #### Googleアカウント
